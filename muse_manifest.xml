@@ -1,0 +1,101 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="AserraderoSanLazaro.com" resolutions="1x" timestamp="1594661071607">
+  <folder name="css">
+    <file name="site_global.css" crc="14998980"/>
+    <file name="index.css" crc="386086078" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="36584860" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index"/>
+    <file name="form_check.php" crc="158155501" ref="index"/>
+    <file name="form_throttle.php" crc="3992970984" ref="index"/>
+    <file name="form_process.php" crc="4078697226" ref="index"/>
+    <file name="form-u1884.php" crc="447806753" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4065090679" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="home-favicon.ico" crc="350048516" ref="index"/>
+    <file name="portada.jpg" crc="451842379" ref="index"/>
+    <file name="u308-4.png" crc="4276994964" ref="index"/>
+    <file name="u313-4.png" crc="257049004" ref="index"/>
+    <file name="u266-6.png" crc="287391249" ref="index"/>
+    <file name="u291-4.png" crc="96816159" ref="index"/>
+    <file name="flecha_indicador_mesa de trabajo 1.png" crc="4084630238" seo="true" ref="index"/>
+    <file name="logoaserraderosanlázaro_favicon_mesa de trabajo 1.png" crc="4111243618" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u2005.png" crc="331098791" ref="index"/>
+    <file name="u2005-r.png" crc="4239835456" ref="index"/>
+    <file name="u2101.png" crc="138089379" ref="index"/>
+    <file name="u2101-r.png" crc="4065563787" ref="index"/>
+    <file name="u2073.png" crc="4026131591" ref="index"/>
+    <file name="u2073-r.png" crc="3941596796" ref="index"/>
+    <file name="u2044.png" crc="485091499" ref="index"/>
+    <file name="u2044-r.png" crc="473594471" ref="index"/>
+    <file name="dominik-kempf-jnfaq1t1mba-unsplash.jpg" crc="64179952" ref="index"/>
+    <file name="u333-4.png" crc="5277005" ref="index"/>
+    <file name="logoaserraderosanlázaro_mesa de trabajo 1-u1482-fr.png" crc="470083392" ref="index"/>
+    <file name="0b6b863b-3d71-4911-bdbd-abfd0d5e6a8c-u1533-fr.jpg" crc="138977594" ref="index"/>
+    <file name="1a92b3a7-36a3-42f5-baa9-89e6aa0f3c4f-u1550-fr.jpg" crc="3803372063" ref="index"/>
+    <file name="1da747a1-ada0-48ad-b458-d7717c38c761-u1578-fr.jpg" crc="4005936069" ref="index"/>
+    <file name="2a0951bb-5180-440a-9da0-73b6cab459ef-u1592-fr.jpg" crc="3932300002" ref="index"/>
+    <file name="2fd2dfce-180a-4571-8dfb-d341d853598e-u1606-fr.jpg" crc="361036678" ref="index"/>
+    <file name="04d90d3e-d48b-47a7-ba4f-4a0018f612b6-u1620-fr.jpg" crc="119224076" ref="index"/>
+    <file name="4b85516a-bc86-4047-8d91-f759d1b9fc8d-u1634-fr.jpg" crc="3937562157" ref="index"/>
+    <file name="5f499625-29bc-4623-a57d-72e96983faf7-u1648-fr.jpg" crc="269755376" ref="index"/>
+    <file name="7fbf4f70-9567-4064-880d-d8ca08ba74aa-u1662-fr.jpg" crc="4233066296" ref="index"/>
+    <file name="8c56e8d4-b95c-457a-b577-0e5b398fe05d-u1676-fr.jpg" crc="450942854" ref="index"/>
+    <file name="033eee5f-f27e-4813-9714-7158c234f7ea-u1690-fr.jpg" crc="251772072" ref="index"/>
+    <file name="43e81a23-c121-4059-8e14-e3d41999078e-u1704-fr.jpg" crc="3996660969" ref="index"/>
+    <file name="755bec28-4581-4672-8e03-2097019a04bf-u1718-fr.jpg" crc="250217125" ref="index"/>
+    <file name="6550865a-fab1-4195-8ccd-96b14e7114de-u1732-fr.jpg" crc="428970030" ref="index"/>
+    <file name="b0590069-24bd-4d97-b9cc-0f67ab19a3b3-u1754-fr.jpg" crc="3811607153" ref="index"/>
+    <file name="logoaserraderosanlázaro_mesa de trabajo 1.png" crc="292172466" ref="index"/>
+    <file name="0b6b863b-3d71-4911-bdbd-abfd0d5e6a8c.jpg" crc="322347752" ref="index"/>
+    <file name="1a92b3a7-36a3-42f5-baa9-89e6aa0f3c4f.jpg" crc="259829597" ref="index"/>
+    <file name="1da747a1-ada0-48ad-b458-d7717c38c761.jpg" crc="230847327" ref="index"/>
+    <file name="2a0951bb-5180-440a-9da0-73b6cab459ef.jpg" crc="3909574942" ref="index"/>
+    <file name="2fd2dfce-180a-4571-8dfb-d341d853598e.jpg" crc="443811586" ref="index"/>
+    <file name="04d90d3e-d48b-47a7-ba4f-4a0018f612b6.jpg" crc="264923142" ref="index"/>
+    <file name="4b85516a-bc86-4047-8d91-f759d1b9fc8d.jpg" crc="462800917" ref="index"/>
+    <file name="5f499625-29bc-4623-a57d-72e96983faf7.jpg" crc="3889135795" ref="index"/>
+    <file name="7fbf4f70-9567-4064-880d-d8ca08ba74aa.jpg" crc="3787425988" ref="index"/>
+    <file name="8c56e8d4-b95c-457a-b577-0e5b398fe05d.jpg" crc="108018010" ref="index"/>
+    <file name="033eee5f-f27e-4813-9714-7158c234f7ea.jpg" crc="3912513244" ref="index"/>
+    <file name="43e81a23-c121-4059-8e14-e3d41999078e.jpg" crc="376351288" ref="index"/>
+    <file name="755bec28-4581-4672-8e03-2097019a04bf.jpg" crc="4150116268" ref="index"/>
+    <file name="6550865a-fab1-4195-8ccd-96b14e7114de.jpg" crc="4206788131" ref="index"/>
+    <file name="b0590069-24bd-4d97-b9cc-0f67ab19a3b3.jpg" crc="459815683" ref="index"/>
+    <file name="facebook_icono_mesa de trabajo 1.png" crc="4118981423" seo="true" ref="index"/>
+    <file name="instagram_icono_mesa de trabajo 1.png" crc="500121269" seo="true" ref="index"/>
+    <file name="twitter_icono_mesa de trabajo 1.png" crc="247359521" seo="true" ref="index"/>
+    <file name="nombre_mesa de trabajo 1.png" crc="161436269" seo="true" ref="index"/>
+    <file name="telefono_icono_mesa de trabajo 1.png" crc="4059632833" seo="true" ref="index"/>
+    <file name="ubicación_icono_mesa de trabajo 1.png" crc="12488276" seo="true" ref="index"/>
+    <file name="u1780-4.png" crc="534442762" ref="index"/>
+    <file name="u1875-4.png" crc="274512151" ref="index"/>
+    <file name="u1878-4.png" crc="3841418149" ref="index"/>
+    <file name="u1881-4.png" crc="503951484" ref="index"/>
+    <file name="u1898.png" crc="461558456" ref="index"/>
+    <file name="u1898-ferr.png" crc="271889441" ref="index"/>
+    <file name="u1889.png" crc="337651469" ref="index"/>
+    <file name="u1889-ferr.png" crc="457107513" ref="index"/>
+    <file name="u1900-fss.png" crc="515938312" ref="index"/>
+    <file name="u1887.png" crc="250099065" ref="index"/>
+    <file name="u1887-r.png" crc="3823897004" ref="index"/>
+    <file name="u1887-m.png" crc="44498780" ref="index"/>
+    <file name="u1887-fs.png" crc="227704305" ref="index"/>
+    <file name="u1894.png" crc="515757933" ref="index"/>
+    <file name="u1894-ferr.png" crc="3806630927" ref="index"/>
+  </folder>
+  <file name="index.html" crc="282496266" seo="true" mt="1594661017897" redirect="true"/>
+</manifest>
